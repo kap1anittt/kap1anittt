@@ -1,6 +1,5 @@
 # Продуктовый аналитик
 
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdiNmhsMWM4enRlOGpkNXMyYWIxdDgwM3hsam81eGJ4NW9saXNrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpmNf92LmkoMw/giphy.gif)
 Я продуктовый аналитик с опытом в обработке данных, A/B тестировании и машинном обучении.  
 Мои проекты сочетают технические навыки и бизнес-аналитику для извлечения инсайтов.
 
@@ -31,7 +30,6 @@
 ## Pet-проекты
 
 ### 1. FlatHunter-Analytics: Анализ рынка недвижимости
-![FlatHunter GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1Y3RlY2R4Z3V6b2VtY3NqYzVzZzJ6eG4xbmZ1aGJicDZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7CKd1GO6oiZQo8L5d/giphy.gif)
 
 **Стек:** Python, Pandas, Scikit-learn, A/B тесты  
 **Этапы:**
@@ -45,7 +43,6 @@
 ---
 
 ### 2. A/B Test Validator: Веб-инструмент для аналитиков
-![AB Test GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1Y3RlY2R4Z3V6b2VtY3NqYzVzZzJ6eG4xbmZ1aGJicDZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ1hqjPjWM/giphy.gif)
 
 **Стек:** Python, Streamlit, Statsmodels  
 **Функции:**
@@ -60,7 +57,6 @@
 ## 🏆 Хакатоны и конкурсы
 
 ### 🥇 МЦР – 1 место ([Leader Innovation](https://leader-innovation.ru/mdp))
-![Hackathon GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY4b2VlZ3V5eGx1Z2R6dWQ1Z3JtNnFqY2Z6bmZ6eGx1aDNicWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRVP7mapl24G6RNkwJ/giphy.gif)
 
 **Решенные задачи:**
 - 🔍 **EDA**: Визуализация распределений, корреляционный анализ, выявление трендов
@@ -71,5 +67,4 @@
 📈 Повышение точности прогнозов + инсайты о факторах качества продукции  
 🔗 [Репозиторий проекта](https://github.com/MISIS-x-OptonGroup/Marathon-Digital-Solutions.git)
 
-
-*(Остальные разделы остаются без изменений — проекты, контакты и т.д.)*
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdiNmhsMWM4enRlOGpkNXMyYWIxdDgwM3hsam81eGJ4NW9saXNrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpmNf92LmkoMw/giphy.gif)
