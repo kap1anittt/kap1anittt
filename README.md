@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=AD8EFF&width=435&lines=Product+Analytst+%7C+MISIS+student" alt="Typing SVG" /></a></h1>
 
----
 
 ## Pet-проекты
 
