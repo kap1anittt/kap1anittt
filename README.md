@@ -2,7 +2,7 @@
 
 Я продуктовый аналитик с опытом в обработке данных, A/B тестировании и машинном обучении.  
 Мои проекты сочетают технические навыки и бизнес-аналитику для извлечения инсайтов.
-(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRqc2VweDJtdnZiMmhrcDc1M3llMXMzZ2ZjdmR4am12bDJiY20xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pcUZOnLQ0ldECpVqe/giphy.gif)
+[f](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRqc2VweDJtdnZiMmhrcDc1M3llMXMzZ2ZjdmR4am12bDJiY20xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pcUZOnLQ0ldECpVqe/giphy.gif)
 
 ---
 
