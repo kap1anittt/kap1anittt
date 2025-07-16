@@ -64,4 +64,4 @@
 **Итог:**  
 📈 Повышение точности прогнозов + инсайты о факторах качества продукции  
 🔗 [Репозиторий проекта](https://github.com/MISIS-x-OptonGroup/Marathon-Digital-Solutions.git)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kap1anittt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
