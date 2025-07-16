@@ -1,6 +1,5 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=AD8EFF&width=435&lines=Product+Analytst+%7C+MISIS+student" alt="Typing SVG" /></a></h1>
-<h3 align="center">Аналитика для извлечения инсайтов</h3>
 
 ---
 
@@ -17,7 +16,6 @@
 
 🔗 [GitHub репозиторий](https://github.com/kap1anittt/FlatHunter-Analytics.git)
 
----
 
 ### 2. A/B Test Validator: Веб-инструмент для аналитиков
 
