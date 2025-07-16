@@ -4,7 +4,7 @@
 Мои проекты сочетают технические навыки и бизнес-аналитику для извлечения инсайтов</h3>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokua
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ## 🛠 Технический стек
 
 ### 📊 Анализ данных
