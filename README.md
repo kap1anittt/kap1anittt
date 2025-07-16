@@ -1,8 +1,11 @@
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
 # Продуктовый аналитик
 
 Я продуктовый аналитик с опытом в обработке данных, A/B тестировании и машинном обучении.  
 Мои проекты сочетают технические навыки и бизнес-аналитику для извлечения инсайтов.
-![f](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRqc2VweDJtdnZiMmhrcDc1M3llMXMzZ2ZjdmR4am12bDJiY20xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pcUZOnLQ0ldECpVqe/giphy.gif)
 
 ---
 
@@ -67,4 +70,3 @@
 📈 Повышение точности прогнозов + инсайты о факторах качества продукции  
 🔗 [Репозиторий проекта](https://github.com/MISIS-x-OptonGroup/Marathon-Digital-Solutions.git)
 
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdiNmhsMWM4enRlOGpkNXMyYWIxdDgwM3hsam81eGJ4NW9saXNrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpmNf92LmkoMw/giphy.gif)
