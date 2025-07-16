@@ -1,4 +1,4 @@
-<h1 align="center">hello
+<h1 align="center">hi
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я продуктовый аналитик с опытом в обработке данных, A/B тестировании и машинном обучении.  
 Мои проекты сочетают технические навыки и бизнес-аналитику для извлечения инсайтов</h3>
