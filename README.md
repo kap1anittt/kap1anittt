@@ -1,7 +1,6 @@
 # Продуктовый аналитик
 
-![Banner](https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif)
-
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdiNmhsMWM4enRlOGpkNXMyYWIxdDgwM3hsam81eGJ4NW9saXNrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpmNf92LmkoMw/giphy.gif)
 Я продуктовый аналитик с опытом в обработке данных, A/B тестировании и машинном обучении.  
 Мои проекты сочетают технические навыки и бизнес-аналитику для извлечения инсайтов.
 
