@@ -4,8 +4,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kap1anittt&show_icons=true&theme=transparent)
-
 ## Pet-проекты
 
 ### 1. FlatHunter-Analytics: Анализ рынка недвижимости
