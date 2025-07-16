@@ -4,26 +4,7 @@
 
 ---
 
-## 🛠 Технический стек
-
-### 📊 Анализ данных
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-### 📈 Визуализация
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-
-### 🧮 Машинное обучение
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikitlearn&logoColor=white)
-![Classic_ML](https://img.shields.io/badge/Classic_ML-01AEF2?logo=ai&logoColor=white)
-
-### 🛠 Инструменты
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-4D4D4D?logo=dbeaver&logoColor=white)
-
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kap1anittt&show_icons=true&theme=transparent)
 
 ## Pet-проекты
 
@@ -64,4 +45,5 @@
 **Итог:**  
 📈 Повышение точности прогнозов + инсайты о факторах качества продукции  
 🔗 [Репозиторий проекта](https://github.com/MISIS-x-OptonGroup/Marathon-Digital-Solutions.git)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kap1anittt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
