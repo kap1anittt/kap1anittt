@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=AD8EFF&width=435&lines=Product+Analytst+%7C+MISIS+student)](https://git.io/typing-svg)
+<h1 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=AD8EFF&width=435&lines=Product+Analytst+%7C+MISIS+student)](https://git.io/typing-svg)
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я продуктовый аналитик с опытом в обработке данных, A/B тестировании и машинном обучении.  
 Мои проекты сочетают технические навыки и бизнес-аналитику для извлечения инсайтов</h3>
